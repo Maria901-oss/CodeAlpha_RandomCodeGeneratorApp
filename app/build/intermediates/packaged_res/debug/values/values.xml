@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="bg_end">#341F97</color>
+    <color name="bg_start">#6C5CE7</color>
+    <color name="button_bg">#00B894</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="text_author">#6C5CE7</color>
+    <color name="text_primary">#2D3436</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Random Quote Generator</string>
+    <string name="new_quote">New Quote</string>
+    <string name="share">Share</string>
+    <style name="Theme.RandomQuoteGenerator" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="colorPrimary">@color/bg_start</item>
+        <item name="colorPrimaryVariant">@color/bg_end</item>
+        <item name="android:statusBarColor">@color/bg_end</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:forceDarkAllowed" ns1:targetApi="q">false</item>
+    </style>
+</resources>

@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+color bg_end
+color bg_start
+color button_bg
+color card_bg
+color text_author
+color text_primary
+color white
+drawable bg_button
+drawable bg_card
+drawable bg_gradient
+drawable ic_launcher_background
+drawable ic_launcher_combined
+drawable ic_launcher_foreground
+id btnNewQuote
+id btnShare
+id cardQuote
+id progressBar
+id tvAppTitle
+id tvQuoteAuthor
+id tvQuoteMark
+id tvQuoteText
+id tvStatus
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string new_quote
+string share
+style Theme.RandomQuoteGenerator

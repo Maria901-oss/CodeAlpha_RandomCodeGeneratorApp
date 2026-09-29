@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "com.codealpha.randomquotegenerator.app-merged_res-33:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "com.codealpha.randomquotegenerator.app-pngs-29:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.codealpha.randomquotegenerator.app-merged_res-33:/drawable-ldpi_ic_launcher_combined.png.flat",
+        "source": "com.codealpha.randomquotegenerator.app-pngs-29:/drawable-ldpi/ic_launcher_combined.png"
+    },
+    {
+        "merged": "com.codealpha.randomquotegenerator.app-merged_res-33:/drawable-hdpi_ic_launcher_combined.png.flat",
+        "source": "com.codealpha.randomquotegenerator.app-pngs-29:/drawable-hdpi/ic_launcher_combined.png"
+    },
+    {
+        "merged": "com.codealpha.randomquotegenerator.app-merged_res-33:/drawable_bg_button.xml.flat",
+        "source": "com.codealpha.randomquotegenerator.app-main-35:/drawable/bg_button.xml"
+    },
+    {
+        "merged": "com.codealpha.randomquotegenerator.app-merged_res-33:/drawable-anydpi-v24_ic_launcher_background.xml.flat",
+        "source": "com.codealpha.randomquotegenerator.app-pngs-29:/drawable-anydpi-v24/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.codealpha.randomquotegenerator.app-merged_res-33:/drawable-xxxhdpi_ic_launcher_combined.png.flat",
+        "source": "com.codealpha.randomquotegenerator.app-pngs-29:/drawable-xxxhdpi/ic_launcher_combined.png"
+    },
+    {
+        "merged": "com.codealpha.randomquotegenerator.app-merged_res-33:/drawable-anydpi-v24_ic_launcher_combined.xml.flat",
+        "source": "com.codealpha.randomquotegenerator.app-pngs-29:/drawable-anydpi-v24/ic_launcher_combined.xml"
+    },
+    {
+        "merged": "com.codealpha.randomquotegenerator.app-merged_res-33:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.codealpha.randomquotegenerator.app-pngs-29:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.codealpha.randomquotegenerator.app-merged_res-33:/drawable-xxhdpi_ic_launcher_combined.png.flat",
+        "source": "com.codealpha.randomquotegenerator.app-pngs-29:/drawable-xxhdpi/ic_launcher_combined.png"
+    },
+    {
+        "merged": "com.codealpha.randomquotegenerator.app-merged_res-33:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "com.codealpha.randomquotegenerator.app-pngs-29:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.codealpha.randomquotegenerator.app-merged_res-33:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.codealpha.randomquotegenerator.app-main-35:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.codealpha.randomquotegenerator.app-merged_res-33:/drawable_bg_gradient.xml.flat",
+        "source": "com.codealpha.randomquotegenerator.app-main-35:/drawable/bg_gradient.xml"
+    },
+    {
+        "merged": "com.codealpha.randomquotegenerator.app-merged_res-33:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.codealpha.randomquotegenerator.app-pngs-29:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.codealpha.randomquotegenerator.app-merged_res-33:/layout_activity_main.xml.flat",
+        "source": "com.codealpha.randomquotegenerator.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.codealpha.randomquotegenerator.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.codealpha.randomquotegenerator.app-main-35:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.codealpha.randomquotegenerator.app-merged_res-33:/mipmap_ic_launcher.xml.flat",
+        "source": "com.codealpha.randomquotegenerator.app-main-35:/mipmap/ic_launcher.xml"
+    },
+    {
+        "merged": "com.codealpha.randomquotegenerator.app-merged_res-33:/mipmap_ic_launcher_round.xml.flat",
+        "source": "com.codealpha.randomquotegenerator.app-main-35:/mipmap/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.codealpha.randomquotegenerator.app-merged_res-33:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.codealpha.randomquotegenerator.app-pngs-29:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.codealpha.randomquotegenerator.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.codealpha.randomquotegenerator.app-main-35:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.codealpha.randomquotegenerator.app-merged_res-33:/drawable-mdpi_ic_launcher_combined.png.flat",
+        "source": "com.codealpha.randomquotegenerator.app-pngs-29:/drawable-mdpi/ic_launcher_combined.png"
+    },
+    {
+        "merged": "com.codealpha.randomquotegenerator.app-merged_res-33:/drawable-xhdpi_ic_launcher_combined.png.flat",
+        "source": "com.codealpha.randomquotegenerator.app-pngs-29:/drawable-xhdpi/ic_launcher_combined.png"
+    },
+    {
+        "merged": "com.codealpha.randomquotegenerator.app-merged_res-33:/drawable_bg_card.xml.flat",
+        "source": "com.codealpha.randomquotegenerator.app-main-35:/drawable/bg_card.xml"
+    },
+    {
+        "merged": "com.codealpha.randomquotegenerator.app-merged_res-33:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "com.codealpha.randomquotegenerator.app-pngs-29:/drawable-mdpi/ic_launcher_background.png"
+    }
+]

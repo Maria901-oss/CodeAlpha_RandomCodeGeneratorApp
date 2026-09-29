@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Not DayNight on purpose: this app has one fixed, branded look (purple
+         gradient + white card). We don't want the system's light/dark
+         setting reinterpreting our custom colors. forceDarkAllowed=false
+         (set in the manifest) stops Android from auto-inverting colors too. -->
+    <style name="Theme.RandomQuoteGenerator" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="colorPrimary">@color/bg_start</item>
+        <item name="colorPrimaryVariant">@color/bg_end</item>
+        <item name="android:statusBarColor">@color/bg_end</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:forceDarkAllowed" tools:targetApi="q">false</item>
+    </style>
+</resources>

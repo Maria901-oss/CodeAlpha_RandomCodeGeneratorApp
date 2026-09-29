@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Random Quote Generator</string>
+    <string name="new_quote">New Quote</string>
+    <string name="share">Share</string>
+</resources>
